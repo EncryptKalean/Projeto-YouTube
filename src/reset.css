@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    max-width: 100%;
+    font-family: Roboto;
+}

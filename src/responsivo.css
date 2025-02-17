@@ -1,0 +1,62 @@
+@media screen and (max-width: 700px) {
+  /* Desligados */
+
+  .meio input,
+  .pesquisa-voz svg,
+  .upload,
+  .barralateral {
+    display: none;
+  }
+
+  /* Cabeçalho */
+
+  header {
+    padding: 1.5%;
+  }
+
+  .meio,
+  .meio > svg {
+    margin: 0;
+    width: 35px;
+    background: none;
+  }
+
+  .esquerda {
+    width: 60%;
+  }
+
+  .meio,
+  .direita {
+    width: 20%;
+  }
+
+  /* Video */
+
+  .containervideos {
+    width: 100%;
+    margin: 50px 0;
+    margin-left: 0;
+    padding: 0;
+  }
+
+  .tags {
+    overflow: hidden;
+    margin-left: 20px;
+  }
+
+  .videos {
+    margin: 20px 0;
+  }
+
+  .thumb {
+    height: 270px;
+  }
+
+  .videos > div {
+    width: 90%;
+  }
+
+  .videoinfos img {
+    width: 400px;
+  }
+}
