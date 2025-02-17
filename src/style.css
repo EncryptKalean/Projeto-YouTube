@@ -125,7 +125,7 @@ input[type="text"] {
 /* Canal */
 
 .barralateral > .inscricoes > a div{
-  background-image: url(./src/icone2.png);
+  background-image: url(../src/icone2.png);
   background-size: cover;
   background-position: center;
   width: 30px;
